@@ -1,0 +1,6 @@
+non functiponal requirements related to functional requirements
+hds (cancel ticket)
+condition hogi cancel ticket wali
+re viset diagram ERD 
+calculator 
+
